@@ -1,0 +1,5 @@
+2025-06-15 18:00:12,542 - INFO - Connected to Binance Futures Testnet.
+2025-06-15 18:01:33,847 - INFO - ✅ Order Placed: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.01, 'price': '104368.38', 'status': 'NEW'}
+2025-06-15 18:03:11,126 - INFO - ✅ Order Placed: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.05, 'status': 'FILLED'}
+2025-06-15 18:04:59,214 - ERROR - Binance API Error: Margin is insufficient.
+2025-06-15 18:06:24,303 - ERROR - Order Placement Failed: Invalid symbol format.
