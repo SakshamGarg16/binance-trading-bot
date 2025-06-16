@@ -3,7 +3,7 @@ from binance.client import Client
 from binance.enums import *
 from binance.exceptions import BinanceAPIException
 import sys
-ORDER_TYPE_STOP_MARKET = 'STOP_MARKET'  # Add this manually
+ORDER_TYPE_STOP_MARKET = 'STOP_MARKET' 
 
 # Logging
 logging.basicConfig(filename='bot.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
